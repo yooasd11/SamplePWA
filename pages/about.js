@@ -12,4 +12,4 @@ const about = () => (
 </div>
 );
 
-export default withLayout(about);
+export default about;
